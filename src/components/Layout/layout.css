@@ -1,0 +1,29 @@
+.layout{
+    padding-left: 48px;
+    padding-right: 48px;
+    height:80px;
+}
+
+.layout .btn{
+    background-color: #fff;
+}
+
+.layout .btnIconChat .MuiSvgIcon-root{
+    font-size: 1rem;
+}
+
+.layout .btnIconBell .MuiSvgIcon-root{
+    font-size: 1.25rem;
+}
+
+.layout .btnIcon.MuiButtonBase-root{
+    height:40px;
+    width:40px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.086) 0px 5px 10px;
+}
+
+.content{
+    padding-left: 48px;
+    padding-right: 48px;
+}

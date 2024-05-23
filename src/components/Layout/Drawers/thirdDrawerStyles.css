@@ -1,0 +1,75 @@
+.thirdDrawer .MuiPaper-root{
+    overflow-y: scroll;
+}
+
+.thirdDrawer .MuiPaper-root::-webkit-scrollbar-button{
+    display: none;
+}
+
+.thirdDrawer .MuiPaper-root::-webkit-scrollbar{
+    width:6px;
+}
+
+.thirdDrawer .MuiPaper-root::-webkit-scrollbar-thumb{
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 342px;
+}
+
+
+.thirdDrawer .drawerBox{
+    width: 234px;
+    padding-right: 16px;
+    font-size: 0.875rem;
+}
+
+
+.thirdDrawer .listSubHeader{
+    padding: 30px 30px 15px;
+    line-height: 1.5;
+    font-size: 80%;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: rgb(133, 149, 166)
+}
+
+
+.thirdDrawer .listItemBtn{
+    padding: 0;
+}
+
+
+
+  .thirdDrawer .link{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 4px 30px;
+  }
+
+
+  .thirdDrawer .linkIcon{
+    min-width: 32px;
+  }
+
+
+  .thirdDrawer .linkName{
+    color: rgb(71, 82, 89);
+    font-size: 0.875rem;
+  }
+
+  .thirdDrawer .link:hover .linkIcon,.thirdDrawer .link:hover .linkName{
+    color:rgb(115, 82, 199)
+  }
+
+  .thirdDrawer .logoBox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 30px;
+    min-height: 80px;
+    margin-right:-6px;
+  }
+
+  .thirdDrawer .closebtn{
+    fill:rgb(71, 82, 89)
+  }

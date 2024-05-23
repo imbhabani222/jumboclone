@@ -1,0 +1,24 @@
+
+
+:root{
+  box-sizing: border-box;
+}
+
+*,*::before,*::after{
+  box-sizing: inherit;
+}
+
+
+body {
+  margin: 0;
+  padding:0;
+  font-family: NoirPro, 'Arial', sans-serif;
+  color: rgb(71, 82, 89);
+    font-size: 0.875rem;
+    font-family: NoirPro, Arial;
+    font-weight: 400;
+    line-height: 1.5;
+  background-color: rgb(245, 247, 250);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

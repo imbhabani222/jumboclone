@@ -1,0 +1,19 @@
+.userDataCard{
+    width: calc(25% - 25px);
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.086) 0px 5px 10px;
+    padding: 25px 25px 0 25px;
+    overflow: hidden;
+}
+
+.userDataCard.onlineVisitors{
+    padding: 25px 0 0 0 ;
+}
+
+.userDataCard .text{
+    padding: 0 25px 0 25px;
+}
+
+.userDataCard .textwebtraffic{
+    text-align: center;
+}

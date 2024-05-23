@@ -1,0 +1,26 @@
+.salesReport{
+    
+    margin-top:20px;
+    margin-bottom: 20px;
+    
+}
+
+.salesReport .salesReportHeader{
+    font-weight: bold;
+}
+
+
+.salesReport .revenueAmount{
+    font-size: 30px;
+}
+
+.salesReport .timeElapsed{
+    font-size: 15px;
+    color:#9EABB9;
+}
+  
+.salesReport .reportBox{
+    border-radius:20px;
+    box-shadow: rgba(0, 0, 0, 0.086) 0px 5px 10px;
+    padding: 25px 25px 0 25px;
+}

@@ -1,0 +1,24 @@
+.salesStats{
+    border-radius:20px;
+    box-shadow: rgba(0, 0, 0, 0.086) 0px 5px 10px;
+    margin-top:20px;
+}
+
+.salesStats .salesStatsHeader{
+    border-radius: 20px 20px 0 0;
+    background-color: #7352C7;
+    color:#fff;
+    padding: 20px;
+}
+
+.salesStats .morebtn.css-xdu33q-MuiTypography-root{
+    color:#fff;
+    font-size: 23px;
+    font-weight: 500;
+    cursor:pointer;
+}
+
+.salesStats .statsRadialBarChart{
+    border-left: 3px solid #E9EBEE;
+}
+
